@@ -1,1 +1,4 @@
-Hello World in this go repo you can learn how to code in go and how to build projects in go
+<h1>Hello world</h1>
+
+* in this go repository you can access all go learning materials and refrences for learning 
+
