@@ -10,7 +10,7 @@ func main()  { //map is faster than array and instantly adding or remove element
 
    "apples" :10,
    "orange" : 5,
-   "mango" : 8,
+   "mango" : 18,
 
     
 }

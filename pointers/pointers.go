@@ -1,8 +1,13 @@
- package main
+package main
 
 import "fmt"
 
+
 func main(){
+
+var a = 10;
+
+fmt.Println(a);
 
 x := 7
 y := &x
@@ -45,7 +50,7 @@ fmt.Println(x,y)
 	fmt.Println("Modified name:", name) // Name is still "Alice" (explained below)
 
     
-	a := 2
+	
 
 	fmt.Println(a)
 
